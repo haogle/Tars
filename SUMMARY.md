@@ -1,18 +1,13 @@
 # Summary
 
 
-
-
-*[基本入门](README.md)
-*[架构介绍](Introduction.md)
-
 * [基本安装](docs/install_README.md)
  - [依赖环境](docs/install_dependcy.md)
- - [Tars开发环境安装介绍](docs/web-frontend.md)
- - [Tars数据库环境初始化](docs/mysql_init.md)
- - [Tars框架运行环境搭建] (docs/framework_install.md)
- 
-* [基本架构] (docs/readme.md)
+ - [开发环境安装介绍](docs/web-frontend.md)
+ - [数据库环境初始化](docs/mysql_init.md)
+ - [框架运行环境搭建](docs/framework_install.md)
+
+* [基本架构] (docs/README.md)
  - [Tars框架的统一通信协议说明文档](docs/tars_tup.md)
  - [Tars框架性能测试说明文档](docs/tars_performce.md )
  - [Tars框架模版配置文件说明文档](docs/tars_template.md)
